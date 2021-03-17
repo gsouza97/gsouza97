@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Souza
-- 👀 I’m interested in Mobile development and web development.
+- 👀 I’m interested in Mobile Development and Web Development.
 - 🌱 I’m currently learning Flutter and Node.js with Express and MongoDB.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/gabrielsouza007/), [Instagram](https://www.instagram.com/binhosouza/) or email: gabrielss_@outlook.com.
 
