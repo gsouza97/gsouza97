@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Gabriel Souza.
+## 👋 Hi, I’m Gabriel Souza
 - 👀 I’m interested in Mobile Development and Web Development.
 - 🌱 I’m currently learning Flutter and Node.js with Express and MongoDB.
 <br></br>
