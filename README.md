@@ -6,7 +6,7 @@
   <a href="https://github.com/gsouza97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsouza97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouza97&layout=compact&langs_count=10&theme=dark"/>
-<div>
+</div>
   
 ### Languages, Frameworks and Technologies
 <div style="display: inline_block"><br>
