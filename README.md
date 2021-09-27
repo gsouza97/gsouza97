@@ -34,7 +34,7 @@
 ### Languages:
 <div>
   <img align="center" alt="pt-BR" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="40">
-  <img align="center" alt="pt-BR" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="40">
+  <img align="center" alt="en-US" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="40">
 </div>
 <!---
 gsouza97/gsouza97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
