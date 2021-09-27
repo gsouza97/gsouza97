@@ -24,14 +24,14 @@
 </div>
 <br>
 
-### You can reach me at:
+### You can reach me at
   <div>
   <a href="https://www.linkedin.com/in/gabrielsouza007/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/binhosouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: gabrielss_@outlook.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 </div>
 
-### Languages:
+### Languages
 <div>
   <img align="center" alt="pt-BR" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="40">
   <img align="center" alt="en-US" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="40">
