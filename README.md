@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouza97&layout=compact&langs_count=10&theme=dark"/>
 </div>
   
-### Languages, Frameworks and Technologies
+### Programming Languages, Frameworks and Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
