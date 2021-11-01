@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gabriel Souza
 - 👀 I’m interested in Mobile Development and Web Development.
-- 🌱 I’m currently learning Flutter and React.
+- 🌱 I’m currently learning React Native.
 <br></br>
 <div>
   <a href="https://github.com/gsouza97">
