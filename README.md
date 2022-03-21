@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m Gabriel Souza
+- Software Developer at CVC CORP
 - 👀 I’m interested in Mobile Development and Web Development.
 - 🌱 I’m currently learning React Native.
 <br></br>
