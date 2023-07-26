@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m Gabriel Souza
-- Software Developer at CVC CORP
-- 👀 I’m interested in Mobile Development and Web Development.
-- 🌱 I’m currently learning Flutter.
+- I'm a Software Engineer with 2+ years of experience focused in delivering great experiences for end-users.
 <br></br>
 <div>
   <a href="https://github.com/gsouza97">
@@ -12,15 +10,14 @@
 </div>
 <br>
   
-### Programming Languages, Frameworks and Technologies
+### Programming Languages and Frameworks
 <div style="display: inline_block">
-  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 <br>
 
@@ -34,6 +31,7 @@
 <div>
   <img align="center" alt="pt-BR" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="40">
   <img align="center" alt="en-US" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="40">
+  <img align="center" alt="es-ES" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40">
 </div>
 <!---
 gsouza97/gsouza97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
