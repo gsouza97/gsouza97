@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Gabriel Souza
-- I'm a Software Engineer with 3+ years of experience focused in delivering great experiences for end-users.
+- I'm a Software Engineer with 5+ years of experience focused in delivering great experiences for end-users.
 <br></br>
 <div>
   <a href="https://github.com/gsouza97">
